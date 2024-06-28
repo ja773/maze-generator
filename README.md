@@ -9,16 +9,13 @@ This project is a simple web application that generates random, solvable mazes. 
 Features:
 
 -Generates a random, solvable maze
-
 -Displays the maze in a web browser
-
 -Provides a button to generate a new maze
 
 
 Requirements:
 
 -A web browser
-
 -A local development environment with a web server (e.g., VS Code Live Server, Python's SimpleHTTPServer)
 
 
