@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #maze {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 200px;
+    /* border: 2px solid black; commented out so that there is a gap for entance and exit, means border is less thick compared to rest of maze */
+  }
+  
+  .cell {
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  
+  .cell.visited {
+    background-color: white;
+  }
