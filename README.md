@@ -1,6 +1,4 @@
-# maze-generator
-
-Maze Generator for Flare Tech Challenge by Jiyaad Ali
+# Maze Generator
 
 Description:
 
